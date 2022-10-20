@@ -179,3 +179,4 @@
 |[VOXI for Students](https://www.voxi.co.uk/acquisition/students)|Students get first month free.|Cellular Data|
 |[Amazon](https://www.primevideo.com/)|Student concession on prime video|entertainment|
 |[UNiDAYS](https://www.myunidays.com/IN/en-IN/content/about)|Get up to 50% Off - only for students | tech, fashion, learning and more every time you shop|
+|[PhysicsWallah](https://www.pw.live/study/batches?tag=Trending)|Get up to 60% Off -for students in different batches.| Education|
