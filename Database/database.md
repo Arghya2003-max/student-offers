@@ -46,14 +46,14 @@
 |[netwise.](https://www.netwise.co.uk/students/)|1 years Subscription|Cloud & Internet of Things|
 |[HazeOver](https://hazeover.com/)|Lifetime|Productivity|
 |[ICONS8](https://icons8.com/github-students)|3 Months unlimited Subscription|Design|
-|[Mailgun](https://www.mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
+|[Mailgun](https://mailgun.com/github-students/)|12 months subcription + 20,000 free emails + 100 email validations|Infrastructures|
 |[Go Rails](https://gorails.com/github-students)|12 months subcription – Video Lessons|Learn|
 |[Rhino3D](https://www.rhino3d.com/for/education/)|Rhino3D Educational License|3D Rendering|
 |[Enscape](https://enscape3d.com/educational-license/)|Enscape educational license|Visual Reality & Real Time Rendering||
 |[Chaos](https://www.chaos.com/education/students)|Student License|3D Work|
 |[QT](https://www.qt.io/qt-educational-license)|QT Educational License|Cross Platform development|
 |[Copyright.com](https://www.copyright.com/solutions-annual-copyright-license-student-assessments/)|Student License|Education|
-|[cPanel](https://)|Educational License|cPanel for free but faculty only|
+|[cPanel](https://www.ovipanel.in)|Educational License|cPanel for free but faculty only|
 |[Figma pro](https://www.figma.com/education/)|Figma Pro License|UI/UX Designing|
 |[Gurobi](https://www.gurobi.com/academia/academic-program-and-licenses/)|Student License|Business Problem Solving|
 |[Shapr3d](https://www.shapr3d.com/education)|Student License 1 Year|3D modeling App|
